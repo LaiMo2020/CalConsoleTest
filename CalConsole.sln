@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalConsole", "CalConsole\CalConsole.csproj", "{555448B7-4222-4C39-8EB0-E987B1CFE156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalConsoleTests", "CalConsoleTests\CalConsoleTests.csproj", "{FB5E6D4F-D2F7-47B4-94E6-C515ED25A2EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{555448B7-4222-4C39-8EB0-E987B1CFE156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555448B7-4222-4C39-8EB0-E987B1CFE156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555448B7-4222-4C39-8EB0-E987B1CFE156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555448B7-4222-4C39-8EB0-E987B1CFE156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB5E6D4F-D2F7-47B4-94E6-C515ED25A2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5E6D4F-D2F7-47B4-94E6-C515ED25A2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5E6D4F-D2F7-47B4-94E6-C515ED25A2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5E6D4F-D2F7-47B4-94E6-C515ED25A2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1552C213-6B57-4C63-B467-C5EA370C2791}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		BaseDirectory = ../../Documents/GitHub/Calculator-console
+	EndGlobalSection
+EndGlobal

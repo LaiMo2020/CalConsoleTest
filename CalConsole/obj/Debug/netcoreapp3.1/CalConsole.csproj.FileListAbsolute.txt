@@ -1,0 +1,13 @@
+/Users/laithmohammad/Projects/CalConsole/CalConsole/bin/Debug/netcoreapp3.1/CalConsole.deps.json
+/Users/laithmohammad/Projects/CalConsole/CalConsole/bin/Debug/netcoreapp3.1/CalConsole.runtimeconfig.json
+/Users/laithmohammad/Projects/CalConsole/CalConsole/bin/Debug/netcoreapp3.1/CalConsole.runtimeconfig.dev.json
+/Users/laithmohammad/Projects/CalConsole/CalConsole/bin/Debug/netcoreapp3.1/CalConsole.dll
+/Users/laithmohammad/Projects/CalConsole/CalConsole/bin/Debug/netcoreapp3.1/CalConsole.pdb
+/Users/laithmohammad/Projects/CalConsole/CalConsole/obj/Debug/netcoreapp3.1/CalConsole.csproj.AssemblyReference.cache
+/Users/laithmohammad/Projects/CalConsole/CalConsole/obj/Debug/netcoreapp3.1/CalConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laithmohammad/Projects/CalConsole/CalConsole/obj/Debug/netcoreapp3.1/CalConsole.AssemblyInfoInputs.cache
+/Users/laithmohammad/Projects/CalConsole/CalConsole/obj/Debug/netcoreapp3.1/CalConsole.AssemblyInfo.cs
+/Users/laithmohammad/Projects/CalConsole/CalConsole/obj/Debug/netcoreapp3.1/CalConsole.csproj.CoreCompileInputs.cache
+/Users/laithmohammad/Projects/CalConsole/CalConsole/obj/Debug/netcoreapp3.1/CalConsole.dll
+/Users/laithmohammad/Projects/CalConsole/CalConsole/obj/Debug/netcoreapp3.1/CalConsole.pdb
+/Users/laithmohammad/Projects/CalConsole/CalConsole/obj/Debug/netcoreapp3.1/CalConsole.genruntimeconfig.cache

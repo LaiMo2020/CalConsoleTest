@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{555448B7-4222-4C39-8EB0-E987B1CFE156}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Projects/CalConsole/CalConsole/Program.cs">
+    <Files>
+      <File FileName="../../../Projects/CalConsole/CalConsole/Program.cs" Line="125" Column="1" />
+      <File FileName="../../../Projects/CalConsole/CalConsoleTests/UnitTest1.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalConsole" expanded="True" selected="True">
+            <Node name="CalConsole" expanded="True" />
+            <Node name="CalConsoleTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CalConsole" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CalConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
